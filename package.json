@@ -1,0 +1,11 @@
+{
+  "name": "@grandbazar-io/scale-punks",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@itgold/everscale-tip": "1.1.1",
+    "dotenv": "^10.0.0"
+  }
+}
