@@ -4,7 +4,7 @@ then
   export $(cat .env | xargs)
 fi
 
-contracts=("PunksCollection" "PunksNft")
+contracts=("PunksNft")
 compiledFolder="compiled"
 
 for i in ${!contracts[*]}
